@@ -1,0 +1,15 @@
+---
+title: Clean Water, Brighter Futures in Tharparkar
+subtitle: Pakistan, Water, Sanitation & Hygiene
+layout: default
+modal-id: 1
+date: 2016-01-01
+img: idrf1.png
+thumbnail: idrf1.png
+alt: image-alt
+project-date: July 2016
+client: International Development and Relief Foundation (IDRF)
+category: http://idrf.com/causes/water-in-tharparkar-pakistan/
+description: Women and girls are most affected by lack of clean water and sanitation. IDRF is reaching 30+ Pakistan villages in our biggest water project yet. Access to clean water presents an immense challenge to people in Pakistan, especially those living in a drought affected area such as District Tharparkar- one of the most water insecure regions of the country. In Union Council (UC) Sobhiyar families often lack sufficient water to drink, bathe, cook, grow crops, feed animals, and do laundry.
+
+---
