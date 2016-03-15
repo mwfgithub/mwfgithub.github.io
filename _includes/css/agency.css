@@ -126,8 +126,8 @@ fieldset[disabled] .btn-primary.active {
     border-radius: 3px;
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 18px;
-    font-weight: 1000;
+    font-size: 24px;
+    font-weight: 700;
     color: #fff;
     background-color: #{{ site.color.primary }};
 }
