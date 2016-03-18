@@ -1,5 +1,5 @@
 ---
-title: Clean Water, Brighter Futures in Vilages of Thar Desert
+title: Clean Water, Brighter Futures in Villages of Thar Desert
 subtitle: Pakistan & India, Water, Sanitation & Hygiene
 layout: default
 modal-id: 1
