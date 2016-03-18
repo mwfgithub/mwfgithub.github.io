@@ -1,5 +1,5 @@
 ---
-title: Clean Water, Brighter Futures in Tharparkar
+title: Clean Water, Brighter Futures in Vilages of Thar Desert
 subtitle: Pakistan & India, Water, Sanitation & Hygiene
 layout: default
 modal-id: 1
@@ -10,6 +10,6 @@ alt: image-alt
 project-date: Approximately July/August 2016 - With project starting in early 2017 if successfully funded with your dua's and donations Inshallah.
 client: International Development and Relief Foundation (IDRF)
 category: http://www.youcaring.com/mwf
-description: Access to clean water presents an immense challenge to people living in the district of Tharparkar (both in Pakistan and India). District Tharparkar is one of the most water insecure regions in the countries and the area has been facing drought for more than five years. Families often lack sufficient water to drink, bathe, cook, grow crops, feed animals, and do laundry. Sadly, women and girls are most affected by lack of clean water and sanitation; Girls are taken out of school to help with getting daily potable water from areas located many kilometers away. With your duas and donations we can help create hand pump wells in these villages, create full sanitation systems (which includes latrines) as well as training for maintenance of the systems and general hygiene. Its time for you to get involved and help.
+description: Access to clean water presents an immense challenge to people living in the district of Tharparkar (both in Pakistan and neighbouring India). District Tharparkar (and neighbouring areas) are one of the most water insecure regions in the countries and the area has been facing drought for more than five years. Families often lack sufficient water to drink, bathe, cook, grow crops, feed animals, and do laundry. Sadly, women and girls are most affected by lack of clean water and sanitation; Girls are taken out of school to help with getting daily potable water from areas located many kilometers away. With your duas and donations we can help create hand pump wells in these villages, create full sanitation systems (which includes latrines) as well as training for maintenance of the systems and general hygiene. Its time for you to get involved and help.
 
 ---
