@@ -4,8 +4,8 @@ subtitle: Kabul Afghanistan
 layout: default
 modal-id: 2
 date: 2016-10-16
-img: villagewellpic.png
-thumbnail: villagewellpic.png
+img: villagewellpic1.png
+thumbnail: villagewellpic1-thumbnail.png
 alt: image-alt
 project-date: Approximately December 2016 - With project starting in early 2017 if successfully funded with your dua's and donations Inshallah.
 client: Muslim Water Fund
